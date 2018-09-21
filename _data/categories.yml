@@ -1,17 +1,17 @@
 categories:
-  - slug: arts
-    name: "Arts & Culture"
-  - slug: community
-    name: "Community & Economic Development"
-  - slug: education
-    name: "Education"
-  - slug: elections
-    name: "Elections & Civil Rights"
-  - slug: environment
-    name: "Environment & Ecosystems"
-  - slug: food
-    name: "Food & Agriculture"
-  - slug: health
-    name: "Health"
-  - slug: transportation
-    name: "Transportation"
+  - name: Community & Economic Development
+    slug: community
+  - name: Arts & Culture
+    slug: arts
+  - name: Education
+    slug: education
+  - name: Elections & Civil Rights
+    slug: elections
+  - name: Environment & Ecosystems
+    slug: environment
+  - name: Food & Agriculture
+    slug: food
+  - name: Health
+    slug: health
+  - name: Transportation
+    slug: transportation
