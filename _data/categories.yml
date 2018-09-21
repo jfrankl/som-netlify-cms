@@ -1,17 +1,17 @@
 categories:
-  arts:
+  - arts:
     name: "Arts & Culture"
-  community:
+  - community:
     name: "Community & Economic Development"
-  education:
+  - education:
     name: "Education"
-  elections:
+  - elections:
     name: "Elections & Civil Rights"
-  environment:
+  - environment:
     name: "Environment & Ecosystems"
-  food:
+  - food:
     name: "Food & Agriculture"
-  health:
+  - health:
     name: "Health"
-  transportation:
+  - transportation:
     name: "Transportation"
