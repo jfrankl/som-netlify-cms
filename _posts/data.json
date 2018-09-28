@@ -1,1 +1,3 @@
-"\"\\\"Hello there {}\\\"\""
+{
+  message: "Hello world"
+}
