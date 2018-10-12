@@ -1,11 +1,11 @@
 {
   "language": [
     {
-      "language_name": "Jeff",
-      "language_car": "Carr",
-      "language_boat": "Boatt",
-      "language_house": "Housee",
-      "language_street": "Streett"
+      "language_name": "English",
+      "language_car": "Car",
+      "language_boat": "Boat",
+      "language_house": "House",
+      "language_street": "Street"
     }
   ]
 }
