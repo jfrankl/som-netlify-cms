@@ -8,12 +8,13 @@ collections: # A list of collections the CMS should be able to edit
   - label: "Configuration"
     name: "configuration"
     files:
-      - label: "Map Configuration"
+      - label: "Translation"
         name: "config"
-        file: "_data/config.json"
+        file: "_data/translations.json"
         fields:
-          - {label: Zoom, name: zoom, widget: string}
-          - {label: Lng, name: lng, widget: string}
-          - {label: Lat, name: lat, widget: string}
-          - {label: Bbox, name: bbox, widget: string}
+          - {label: Language, name: language_name, widget: string}
+          - {label: Car, name: language_car, widget: string}
+          - {label: Boat, name: language_boat, widget: string}
+          - {label: House, name: language_house, widget: string}
+          - {label: Street, name: language_street, widget: string}
 
